@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2661b6dd703493844838ff4753729fdd, type: 3}
+  m_Name: ColorStorage
+  m_EditorClassIdentifier: 
+  _data:
+  - serializedVersion: 2
+    rgba: 4278255615
+  - serializedVersion: 2
+    rgba: 4278190335
+  - serializedVersion: 2
+    rgba: 4294901760
+  - serializedVersion: 2
+    rgba: 4284743935
+  - serializedVersion: 2
+    rgba: 4294949376
+  - serializedVersion: 2
+    rgba: 4278226564
+  - serializedVersion: 2
+    rgba: 4283432704
+  - serializedVersion: 2
+    rgba: 4288749251
